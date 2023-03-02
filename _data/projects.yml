@@ -1,7 +1,7 @@
 - project :
     print : True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
     modal : True # If 'True' is selected, modal can open in 'portfolio.html'. 
-    url : https://github.com/naye0ng/Grape-Theme # Full URL
+    url : https://github.com/estebmaister/portfolio # Full URL
     image : "portfolio.png" # path: assets/project/
     date : 2019.06.09 - Developing
     title : Grape-Theme
