@@ -7,7 +7,14 @@
     </div>
   </a>
   <p class="username">{{ profile.username }}</p>
-  <p class="description">{{ profile.description }}</p>
+  <p class="description">
+    {{ profile.description }}
+    {% if profile.curriculum %} --- 
+    <a target="_blank" href="{{ profile.curriculum }}"> 
+      <em class="cs"> CURRICULUM </em> 
+    </a>
+    {% endif %}
+  </p>
 
   <!-- Social icons from Font Awesome -->
   <ul id="icons">

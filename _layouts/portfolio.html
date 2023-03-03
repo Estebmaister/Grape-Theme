@@ -14,8 +14,14 @@ layout: page
       </div>
       <div class="text-wrap col-12 col-md-8">
         <h2 class="username">{{ profile.username }}</h2>
-        <p class="description">{{ profile.description }}</p>
-
+        <p class="description">
+            {{ profile.description }}
+          {% if profile.curriculum %} --- 
+          <a target="_blank" href="{{ profile.curriculum }}"> 
+            <em class="cs"> CURRICULUM </em> 
+          </a>
+          {% endif %}
+        </p>
         <ul id="icons">
           {% include icons.html %}
         </ul>
