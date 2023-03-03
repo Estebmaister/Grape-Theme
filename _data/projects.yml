@@ -1,87 +1,128 @@
 - project :
     print : True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
     modal : True # If 'True' is selected, modal can open in 'portfolio.html'. 
-    url : https://github.com/estebmaister/one-page-portfolio # Full URL
+    live-url: https://estebmaister.github.io/portfolio
+    repo-url: https://github.com/estebmaister/portfolio # Full URL
     image : "portfolio.png" # path: assets/project/
-    date : 2019-06-09
+    date : 2019-06-05
     title : One-page portfolio
+    description : An easy window to showcase principal projects and rrss.  
     summary : A simple personal landing page as freelancer.
-    description : An easy window to showcase principal projects.  
     contents :
-        - title : 1. Welcome section
-          image : home.png
-          description : <li>Responsive Layout</li>
-            <li>User Profile</li> 
-            <li>Tags</li> 
-            <li>Projects</li> 
-            <li>Pagination</li>
-        - title : 2. Projects section
-          image : tags.png
-          description : <li>Responsive Layout</li> 
-            <li>Tags</li> 
-        - title : 3. Contact section
-          image :
-          description : <li>project 부분 디자인 변경</li>
-            <li>favicon.ico, search 기능</li>
-            <li>OG Tag 추가</li>
-            <li>profile 이미지 효과</li>
-            <li>gem 배포</li> 
+    - title : 1. Welcome section
+      image : home.png
+      description : <li>Responsive Layout</li>
+        <li>User Profile</li> 
+        <li>Tags</li> 
+        <li>Projects</li> 
+        <li>Pagination</li>
+    - title : 2. Projects section
+      image : tags.png
+      description : <li>Responsive Layout</li> 
+        <li>Tags</li> 
+    - title : 3. Contact section
+      image :
+      description : <li>project 부분 디자인 변경</li>
+        <li>favicon.ico, search 기능</li>
+        <li>OG Tag 추가</li>
+        <li>profile 이미지 효과</li>
+        <li>gem 배포</li> 
 
 - project :
     print : True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
     modal : True # If 'True' is selected, modal can open in 'portfolio.html'. 
-    url :  https://github.com/estebmaister/one-page-portfolio/geoikos # Full URL
+    live-url:  https://estebmaister.github.io/Oikos
+    repo-url:  https://github.com/estebmaister/Oikos # Full URL
     image : 300/project1_300.png # path: assets/project/
-    date : 2018.08
+    date : 2018-08-09
     title : Oikos website
+    description : Complete set of pages to show the activities and members of the hiking group.
     summary : An association website.
-    description : A complete set of pages to show the activities and members of the hiking group.
     contents :
-      - title : 1. Welcome section
-        image : home.png
-        description : <li>Responsive Layout</li>
-          <li>User Profile</li> 
-          <li>Tags</li> 
-          <li>Projects</li> 
-          <li>Pagination</li>
-      - title : 2. Projects section
-        image : tags.png
-        description : <li>Responsive Layout</li> 
-          <li>Tags</li> 
-      - title : 3. Contact section
-        image :
-        description : <li>project 부분 디자인 변경</li>
-          <li>favicon.ico, search 기능</li>
-          <li>OG Tag 추가</li>
-          <li>profile 이미지 효과</li>
-          <li>gem 배포</li> 
-
+    - title : 1. Welcome section
+      image : home.png
+      description : <li>Responsive Layout</li>
+        <li>User Profile</li> 
+        <li>Tags</li> 
+        <li>Projects</li> 
+        <li>Pagination</li>
+    - title : 2. Projects section
+      image : tags.png
+      description : <li>Responsive Layout</li> 
+        <li>Tags</li> 
+    - title : 3. Contact section
+      image :
+      description : <li>project 부분 디자인 변경</li>
+        <li>favicon.ico, search 기능</li>
+        <li>OG Tag 추가</li>
+        <li>profile 이미지 효과</li>
+        <li>gem 배포</li> 
 
 - project :
     print : True
     modal : True
-    url :  https://github.com/estebmaister/one-page-portfolio/geoikos # Full URL
+    live-url:  https://estebmaister.github.io/cold-war
+    repo-url:  https://github.com/estebmaister/cold-war
     image : 300/project2_300.png
-    date : 2019.08
+    date : 2019-08-08
     title : Cold war website
+    description : Compilation of all the projects developed for this college subject on the Simón Bolívar University.
+    summary : A showcase website for a university subject. Only JS, HTML & CSS used.
+
+- project :
+    live-url:  https://estebmaister.github.io/portfolio/fcc/technicalDocumentation/indexTD.html
+    # repo-url:  https://github.com/estebmaister/portfolio/fcc/technicalDocumentation
+    image : 300/project3_300.png
+    date : 2019-09
+    title : Technical documentation
     summary : A showcase website for a university subject.
     description : Is a compilation of all the projects developed for this college subject on the Simón Bolívar University.
-    contents :
-      - title : 1. Welcome section
-        image : home.png
-        description : <li>Responsive Layout</li>
-          <li>User Profile</li> 
-          <li>Tags</li> 
-          <li>Projects</li> 
-          <li>Pagination</li>
-      - title : 2. Projects section
-        image : tags.png
-        description : <li>Responsive Layout</li> 
-          <li>Tags</li> 
-      - title : 3. Contact section
-        image :
-        description : <li>project 부분 디자인 변경</li>
-          <li>favicon.ico, search 기능</li>
-          <li>OG Tag 추가</li>
-          <li>profile 이미지 효과</li>
-          <li>gem 배포</li> 
+
+- project :
+    live-url:  https://estebmaister.github.io/portfolio/fcc/productLanding/productLanding.html
+    #repo-url:  https://github.com/estebmaister/portfolio/fcc/productLanding
+    image : 300/project4_300.png
+    date : 2018-10-02
+    title : Product landing page
+    description : A landing page focused on three main products showcasing three basic sections.
+
+- project :
+    live-url: https://estebmaister.github.io/portfolio/fcc/survey/surveyForm.html
+    # repo-url: https://github.com/estebmaister/portfolio/fcc/survey
+    image:    300/project5_300.png
+    date:     2019-11
+    title:    Survey form
+    description: Basic survey page to collect information using the basic html form elements.
+
+- project :
+    live-url: https://estebmaister.github.io/portfolio/fcc/tributePage/tributePage.html
+    # repo-url:  https://github.com/estebmaister/portfolio/fcc/tributePage
+    image : 300/project6_300.png
+    date : 2017-12-10
+    title : Oikos tribute
+    description : A tribute page for 45th anniversary of the association.
+
+- project:
+    live-url:  https://estebmaister.github.io/meditation-app
+    repo-url:  https://github.com/estebmaister/meditation-app
+    image: 300/project7_300.png
+    date: 2019-10-10
+    title: Meditation app
+    description: A simple application for meditations routines, with different sounds, videos and timers. Vanilla JS.
+
+- project:
+    live-url: https://estebmaister.github.io/quoter-machine
+    repo-url: https://github.com/estebmaister/quoter-machine
+    image:    300/project8_300.png
+    date:     2020-11-01
+    title:    Quoter machine
+    description: An application that can be installed in your phone. Developed in React with an internal JSON file as DB.
+
+- project:
+    live-url: https://estebmaister.github.io/react-calendar
+    repo-url: https://github.com/estebmaister/react-calendar
+    image:    300/project9_300.png
+    date:     2020-20-04
+    title:    Calendar app
+    description: An application capable of adding/removing/editing reminders in a calender. React-Redux.
+    summary:  Developed in React-Redux with a complete state management.

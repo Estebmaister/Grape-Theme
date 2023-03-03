@@ -8,9 +8,9 @@ comments : True
 ---
 
 Desde muy pequeño me ha encantado el «Anime» (Animaciones japonesas) y la curiosidad me llevó a profundizar más en las historias, y algo muy común en este género es que sus historias son basadas en novelas ilustradas (Manga), que a su vez suelen nacer de novelas escritas.
-
+<br>
 Al descubrir esto me topé con una pasión que no creo pueda perder nunca, la emoción que me logran transmitir las historias de esta cultura es indescriptible, y no me refiero solamente a la cultura japonesa, aquí también estoy incluyendo a la china (Manhua) y koreana (Manhwa).
-
+<br>
 El principal objetivo de este artículo es mostrar una lista de las distintas novelas que actualmente estoy siguiendo, o ya leí, y así llevar registro de ellas, les garantizo que todas valen el esfuerzo de leerlas:
 
 <h2>
