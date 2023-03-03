@@ -1,32 +1,11 @@
-- project :
-    print : True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
-    modal : True # If 'True' is selected, modal can open in 'portfolio.html'. 
-    live-url: https://estebmaister.github.io/portfolio
-    repo-url: https://github.com/estebmaister/portfolio # Full URL
-    image : "portfolio.png" # path: assets/project/
-    date : 2019-06-05
-    title : One-page portfolio
-    description : An easy window to showcase principal projects and rrss.  
-    summary : A simple personal landing page as freelancer.
-    contents :
-    - title : 1. Welcome section
-      image : home.png
-      description : <li>Responsive Layout</li>
-        <li>User Profile</li> 
-        <li>Tags</li> 
-        <li>Projects</li> 
-        <li>Pagination</li>
-    - title : 2. Projects section
-      image : tags.png
-      description : <li>Responsive Layout</li> 
-        <li>Tags</li> 
-    - title : 3. Contact section
-      image :
-      description : <li>project 부분 디자인 변경</li>
-        <li>favicon.ico, search 기능</li>
-        <li>OG Tag 추가</li>
-        <li>profile 이미지 효과</li>
-        <li>gem 배포</li> 
+# - project :
+#     live-url: https://estebmaister.github.io/portfolio
+#     repo-url: https://github.com/estebmaister/portfolio # Full URL
+#     image : "300/project0_300.png" # path: assets/project/
+#     date : 2019-06-05
+#     title : One-page portfolio
+#     description : An easy window to showcase principal projects and rrss.  
+#     summary : A simple personal landing page as freelancer.
 
 - project :
     print : True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
@@ -69,6 +48,16 @@
     description : Compilation of all the projects developed for this college subject on the Simón Bolívar University.
     summary : A showcase website for a university subject. Only JS, HTML & CSS used.
 
+- project:
+    print: True
+    live-url: https://estebmaister.github.io/fh-simulator
+    repo-url: https://github.com/estebmaister/fh-simulator
+    image:    300/project10_300.png
+    date:     2022-20-12
+    title:    Fired heater simulator
+    description: Simulator capable of demonstrating changes when altering operation variables on fired heaters.
+    summary:  Developed in Node JS, HTML and CSS, using the local storage as DB and D3 for graphics.
+
 - project :
     live-url:  https://estebmaister.github.io/portfolio/fcc/technicalDocumentation/indexTD.html
     # repo-url:  https://github.com/estebmaister/portfolio/fcc/technicalDocumentation
@@ -103,6 +92,7 @@
     description : A tribute page for 45th anniversary of the association.
 
 - project:
+    print : True
     live-url:  https://estebmaister.github.io/meditation-app
     repo-url:  https://github.com/estebmaister/meditation-app
     image: 300/project7_300.png
@@ -111,6 +101,7 @@
     description: A simple application for meditations routines, with different sounds, videos and timers. Vanilla JS.
 
 - project:
+    print : True
     live-url: https://estebmaister.github.io/quoter-machine
     repo-url: https://github.com/estebmaister/quoter-machine
     image:    300/project8_300.png
