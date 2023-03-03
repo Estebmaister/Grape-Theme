@@ -1,25 +1,25 @@
 - project :
     print : True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
     modal : True # If 'True' is selected, modal can open in 'portfolio.html'. 
-    url : https://github.com/estebmaister/portfolio # Full URL
+    url : https://github.com/estebmaister/one-page-portfolio # Full URL
     image : "portfolio.png" # path: assets/project/
-    date : 2019.06.09 - Developing
-    title : Grape-Theme
-    summary : A awesome jekyll theme!
-    description : This project is my first jekyll theme. and everyone can customize this easily.  
+    date : 2019-06-09
+    title : One-page portfolio
+    summary : A simple personal landing page as freelancer.
+    description : An easy window to showcase principal projects.  
     contents :
-        - title : 1. 블로그 첫 화면 구성
+        - title : 1. Welcome section
           image : home.png
           description : <li>Responsive Layout</li>
             <li>User Profile</li> 
             <li>Tags</li> 
             <li>Projects</li> 
             <li>Pagination</li>
-        - title : 2. 태그 페이지
+        - title : 2. Projects section
           image : tags.png
           description : <li>Responsive Layout</li> 
             <li>Tags</li> 
-        - title : 3. 남은 개발 과제
+        - title : 3. Contact section
           image :
           description : <li>project 부분 디자인 변경</li>
             <li>favicon.ico, search 기능</li>
@@ -30,9 +30,58 @@
 - project :
     print : True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
     modal : True # If 'True' is selected, modal can open in 'portfolio.html'. 
-    url :  # Full URL
-    image : # path: assets/project/
-    date : 2019.06.09 - Developing
-    title : Dummy project
-    summary : This is Dummy
-    description :  
+    url :  https://github.com/estebmaister/one-page-portfolio/geoikos # Full URL
+    image : 300/project1_300.png # path: assets/project/
+    date : 2018.08
+    title : Oikos website
+    summary : An association website.
+    description : A complete set of pages to show the activities and members of the hiking group.
+    contents :
+      - title : 1. Welcome section
+        image : home.png
+        description : <li>Responsive Layout</li>
+          <li>User Profile</li> 
+          <li>Tags</li> 
+          <li>Projects</li> 
+          <li>Pagination</li>
+      - title : 2. Projects section
+        image : tags.png
+        description : <li>Responsive Layout</li> 
+          <li>Tags</li> 
+      - title : 3. Contact section
+        image :
+        description : <li>project 부분 디자인 변경</li>
+          <li>favicon.ico, search 기능</li>
+          <li>OG Tag 추가</li>
+          <li>profile 이미지 효과</li>
+          <li>gem 배포</li> 
+
+
+- project :
+    print : True
+    modal : True
+    url :  https://github.com/estebmaister/one-page-portfolio/geoikos # Full URL
+    image : 300/project2_300.png
+    date : 2019.08
+    title : Cold war website
+    summary : A showcase website for a university subject.
+    description : Is a compilation of all the projects developed for this college subject on the Simón Bolívar University.
+    contents :
+      - title : 1. Welcome section
+        image : home.png
+        description : <li>Responsive Layout</li>
+          <li>User Profile</li> 
+          <li>Tags</li> 
+          <li>Projects</li> 
+          <li>Pagination</li>
+      - title : 2. Projects section
+        image : tags.png
+        description : <li>Responsive Layout</li> 
+          <li>Tags</li> 
+      - title : 3. Contact section
+        image :
+        description : <li>project 부분 디자인 변경</li>
+          <li>favicon.ico, search 기능</li>
+          <li>OG Tag 추가</li>
+          <li>profile 이미지 효과</li>
+          <li>gem 배포</li> 

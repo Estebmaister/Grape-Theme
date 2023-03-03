@@ -11,31 +11,43 @@ theme_settings :
   profile :
     image : assets/img/smile.png
     username : Esteban Camargo
-    description : creator of Grape-Theme! Grape-Theme is my first jekyll theme and you can customize this theme easily.
+    description : Web developer, enthusiastic programmer, and chemical engineer from the USB. Organized, disciplined and able to solve problems in stress situations are elements that make me stand out. Passionate about adventure sports and former president of the university hiking group 'Oikos'.
     experience :
-      - start : 2020-08-03
-        end : 2023-05-06
-        experience : Encora, Full Stack Dev
+      - start : 2017-09
+        end : 2019-10
+        experience : Freelance, Fullstack Dev
+      - start : 2020-01
+        end : 2021-01
+        experience : Trulocal, Backend Dev
+      - start : 2021-01
+        end : 2021-08
+        experience : SpiderOak, Golang Dev
+      - start : 2021-08
+        end : 2023
+        experience : Encora, Fullstack Dev
+      - start : 2021-08
+        end : 2023
+        experience : Cision, Contractor developer
     skills : 
-      - skill : Golang
+      - skill : "Preferred language: Golang"
         value : 95  # Percent value
-      - skill : Java
-        value : 85
-      - skill : Node
+      - skill : "Backends: Java (Springboot), Node & Python"
         value : 90
-      - skill : Python
+      - skill : "Frontend: React, JS, HTML & CSS"
         value : 90
-      - skill : JS, HTML & CSS
+      - skill : ElasticSearch, PostgreSQL, MongoDB, CouchDB & Redis
         value : 90
+      - skill : "Queues: Kafka & NSQ"
+        value : 80
   # Icons
   icons :
-    email:    estebmaister@gmail.com
-    linkedin: https://linkedin.com/in/estebmaister
-    github:   estebmaister
-    twitter:   estebmaister
-    youtube:   estebmaister
-    facebook:  estebmaister
+    github:    estebmaister
     instagram: estebmaister
+    twitter:   estebmaister
+    facebook:  estebmaister
+    youtube:   estebmaister
+    linkedin:  https://linkedin.com/in/estebmaister
+    #email:    estebmaister@gmail.com
     gitlab: 
     bitbucket: 
     google_plus:
