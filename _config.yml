@@ -11,7 +11,7 @@ theme_settings :
   profile :
     image : assets/img/smile.png
     username : Esteban Camargo
-    description : Web developer, enthusiastic programmer, and chemical engineer from the USB. Organized, disciplined and able to solve problems in stress situations are elements that make me stand out. Passionate about adventure sports and former president of the university hiking group 'Oikos'.
+    description : Web developer, enthusiastic programmer, and chemical engineer from the USB. Organized, disciplined and able to solve problems in stress situations are elements that make me stand out. <br> Passionate about adventure sports and former president of the university hiking group 'Oikos'  --- <a target="_blank" href="https://estebmaister.github.io/curriculum/"> <em class="cs"> CURRICULUM </em> </a>
     experience :
       - start : 2017-09
         end : 2019-10
