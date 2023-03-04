@@ -59,8 +59,8 @@
     summary:  Developed in Node JS, HTML and CSS, using the local storage as DB and D3 for graphics.
 
 - project :
-    live-url:  https://estebmaister.github.io/portfolio/fcc/technicalDocumentation/indexTD.html
-    # repo-url:  https://github.com/estebmaister/portfolio/fcc/technicalDocumentation
+    live-url:  https://estebmaister.github.io/portfolio/fcc/tech-doc
+    # repo-url:  https://github.com/estebmaister/portfolio/fcc/tech-doc
     image : 300/project3_300.png
     date : 2019-09
     title : Technical documentation
@@ -68,15 +68,15 @@
     description : Is a compilation of all the projects developed for this college subject on the Simón Bolívar University.
 
 - project :
-    live-url:  https://estebmaister.github.io/portfolio/fcc/productLanding/productLanding.html
-    #repo-url:  https://github.com/estebmaister/portfolio/fcc/productLanding
+    live-url:  https://estebmaister.github.io/portfolio/fcc/product-landing
+    #repo-url:  https://github.com/estebmaister/portfolio/fcc/product-landing
     image : 300/project4_300.png
     date : 2018-10-02
     title : Product landing page
     description : A landing page focused on three main products showcasing three basic sections.
 
 - project :
-    live-url: https://estebmaister.github.io/portfolio/fcc/survey/surveyForm.html
+    live-url: https://estebmaister.github.io/portfolio/fcc/survey
     # repo-url: https://github.com/estebmaister/portfolio/fcc/survey
     image:    300/project5_300.png
     date:     2019-11
@@ -84,8 +84,8 @@
     description: Basic survey page to collect information using the basic html form elements.
 
 - project :
-    live-url: https://estebmaister.github.io/portfolio/fcc/tributePage/tributePage.html
-    # repo-url:  https://github.com/estebmaister/portfolio/fcc/tributePage
+    live-url: https://estebmaister.github.io/portfolio/fcc/tribute
+    # repo-url:  https://github.com/estebmaister/portfolio/fcc/tribute
     image : 300/project6_300.png
     date : 2017-12-10
     title : Oikos tribute
