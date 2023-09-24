@@ -2,7 +2,7 @@
 
 This blog is based on a Jekyll theme developed by Nayeong and personalized according to my needs, feel free to get the original version on https://github.com/naye0ng/Grape-Theme.git
 
-## Installation
+## Installation and Running
 
 0. Check software requirements in https://jekyllrb.com/docs/installation/
 1. Fork and clone the repo

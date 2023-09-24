@@ -28,7 +28,7 @@ theme_settings :
         experience : Encora, Fullstack Dev
       - start : 2021-08
         end : 2023
-        experience : Cision, Contractor developer
+        experience : Cision, Contractor BE Dev
     skills : 
       - skill : "Preferred language: Golang"
         value : 95  # Percent value

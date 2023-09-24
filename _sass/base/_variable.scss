@@ -5,6 +5,16 @@ $theme-dark2 : #443063;
 $text : rgba(0,0,0,0.8);
 $text-gray : rgba(0,0,0,0.54);
 
+html, html[data-theme="light"] {
+    --primary-color:  #000000;
+    --secondary-color:lightgray;
+    --contrast-color: #ffffff;
+    --shadow:         #808080;
+    --color-deg-1:    #181719;
+    --color-deg-2:    #f1f1f1;
+    --color-deg-3:    #6a6a6a;
+}
+
 %page-padding {
     padding : 0px 15%!important;
     @media (max-width: 991px) {
