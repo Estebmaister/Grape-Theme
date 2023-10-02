@@ -2,7 +2,7 @@
 layout: post
 title: Sample Post with Markdown
 subtitle : How markdown is displayed as html
-tags: [Sample Post, Demo]
+tags: [Demo]
 author: Nayeong Kim
 comments : True
 ---
@@ -11,12 +11,6 @@ This post show result from awesome Markdown techniques like jekyll.
 `Jekyll` supports to transform your plain text into static websites and blogs. 
 
 you can easy to change style in `_utility.html` and a sample of the formatting follows.
-
-<br>
-
-이 포스팅은 놀라운 Markdown 기술들로 만들어진 결과물입니다.
-
-`_utility.html`에서 스타일을 변경할 수 있으며, 서식 샘플은 아래와 같습니다.
 
 <br>
 
@@ -71,9 +65,9 @@ you can easy to change style in `_utility.html` and a sample of the formatting f
 
 <h2>4. hyperlink</h2>
 {% highlight html %}
-[naye0ng's blog](https://naye0ng.github.io)
+[estebmaister's blog](https://estebmaister.github.io)
 {% endhighlight %}
-[naye0ng's blog](https://naye0ng.github.io)
+[estebmaister's blog](https://estebmaister.github.io)
 
 <br>
 
